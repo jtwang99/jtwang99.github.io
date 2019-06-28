@@ -10,7 +10,7 @@ site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
 author: JT Wang # add your name
-author-img: david-freeman.jpg # add your photo
+author-img: https://scontent.ftpe8-1.fna.fbcdn.net/v/t1.0-9/12974342_10209418843894591_3205774273396681733_n.jpg?_nc_cat=109&_nc_oc=AQmgPuj8ZdujZ4uAadEwbxPwAuqe7-DaUyR4bdNY0CrXMGSm7zcJxd01GjvJbuAUduM&_nc_ht=scontent.ftpe8-1.fna&oh=9e7e64e211df48a80a91f0cfb30c8895&oe=5D7956AD # add your photo
 about-author: I am a web developer focusing on front-end development. Always hungry to keep learning. # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
